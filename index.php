@@ -2,6 +2,6 @@
 
 
 echo "kkkkkkk!";
-echo "se e loco cachorro";
+echo "nois e dog mal :C ";
 
 >
